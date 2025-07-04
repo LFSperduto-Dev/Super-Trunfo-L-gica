@@ -1,2 +1,2 @@
-# Super-Trunfo-L-gica
+# Super-Trunfo-Lógica
 Desenvolvimento da lógica do jogo Super Trunfo
